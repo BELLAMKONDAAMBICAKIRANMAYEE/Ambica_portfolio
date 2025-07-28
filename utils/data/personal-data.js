@@ -9,10 +9,10 @@ export const personalData = {
   github: 'https://github.com/BELLAMKONDAAMBICAKIRANMAYEE',
   facebook: 'https://www.facebook.com/profile.php?id=100007232299482',
   linkedIn: 'https://www.linkedin.com/in/ambica-kiranmayee-bellamkonda-203861200/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  twitter: '',
+  stackOverflow: '',
+  leetcode: "",
+  devUsername: "BELLAMKONDAAMBICAKIRANMAYEE",
   instagram: 'https://www.instagram.com/ambicakiranmayee/',
   resume: "https://drive.google.com/file/d/1sjkIH8PDTNrH2uXjAGcCu-RViqruYA8F/view?usp=drive_link" 
 }

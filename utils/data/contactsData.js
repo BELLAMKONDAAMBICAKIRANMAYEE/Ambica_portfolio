@@ -1,11 +1,11 @@
 export const contactsData = {
-    email: 'abusaid7388@gmail.com',
-    phone: '+8801608797655',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-    github: 'https://github.com/said7388',
-    facebook: 'https://www.facebook.com/abusaid.riyaz/',
-    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-    twitter: 'https://twitter.com/said7388',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    email: 'ambica930@gmail.com',
+    phone: '+916303694787',
+
+    address: 'Vijayawada,N.T.R District, Andhra Pradesh, India - 520012',
+    github: 'https://github.com/BELLAMKONDAAMBICAKIRANMAYEE',
+    facebook: 'https://www.facebook.com/profile.php?id=100007232299482',
+    linkedIn: 'https://www.linkedin.com/in/ambica-kiranmayee-bellamkonda-203861200/',
+    twitter: '',
+    devUsername: "BELLAMKONDAAMBICAKIRANMAYEE"
 }
